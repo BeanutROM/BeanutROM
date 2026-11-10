@@ -24,6 +24,8 @@ If you'd like a simple overview, here you go:
 
 **[CyberOrg](https://github.com/BeanutROM/PSX-CyberOrg-English-Patch)** - Unreleased, In Progress
 
+**[Doki Oki](https://github.com/BeanutROM/PSX-Doki-Oki-English-Patch)** - Unreleased, In Progress
+
 **[Egg](https://github.com/BeanutROM/PSX-Egg-English-Patch)** - Unreleased, In Progress
 
 **[Enigma](https://github.com/BeanutROM/PSX-Enigma-English-Patch)** - Unreleased, In Progress
@@ -38,7 +40,7 @@ If you'd like a simple overview, here you go:
 
 **[Lagnacure](https://github.com/BeanutROM/PSX-Lagnacure-English-Patch)** - Unreleased, In Progress
 
-**[Ling Rise](https://github.com/BeanutROM/PSX-Ling-Rise-English-Patch)** - Unreleased, In Progress
+**[Ling Rise](https://github.com/BeanutROM/PSX-Ling-Rise-English-Patch)** - Released
 
 **[Love & Destroy](https://github.com/BeanutROM/PSX-Love-And-Destroy-English-Patch)** - Unreleased, In Progress
 
