@@ -16,7 +16,7 @@ If you'd like a simple overview, here you go:
 
 **[Athena: Awakening from an Ordinary Life](https://github.com/BeanutROM/PSX-Athena-English-Patch)** - Unreleased, In Progress
 
-**[Bealphareth](https://github.com/BeanutROM/PSX-Bealphareth-English-Patch)** - Unreleased, In Progress
+**[Bealphareth](https://github.com/BeanutROM/PSX-Bealphareth-English-Patch)** - Beta Released
 
 **[Boundary Gate](https://github.com/BeanutROM/Boundary-Gate-English-Patch)** - Unreleased, In Progress
 
