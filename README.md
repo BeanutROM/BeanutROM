@@ -16,7 +16,7 @@ If you'd like a simple overview, here you go:
 
 **[Athena: Awakening from an Ordinary Life](https://github.com/BeanutROM/PSX-Athena-English-Patch)** - Unreleased, In Progress
 
-**[Bealphareth](https://github.com/BeanutROM/PSX-Bealphareth-English-Patch)** - Beta Released
+**[Bealphareth](https://github.com/BeanutROM/PSX-Bealphareth-English-Patch)** - Released
 
 **[Boundary Gate](https://github.com/BeanutROM/Boundary-Gate-English-Patch)** - Unreleased, In Progress
 
@@ -24,7 +24,7 @@ If you'd like a simple overview, here you go:
 
 **[CyberOrg](https://github.com/BeanutROM/PSX-CyberOrg-English-Patch)** - Unreleased, In Progress
 
-**[Doki Oki](https://github.com/BeanutROM/PSX-Doki-Oki-English-Patch)** - Unreleased, In Progress
+**[Doki Oki](https://github.com/BeanutROM/PSX-Doki-Oki-English-Patch)** - Released
 
 **[Egg](https://github.com/BeanutROM/PSX-Egg-English-Patch)** - Unreleased, In Progress
 
